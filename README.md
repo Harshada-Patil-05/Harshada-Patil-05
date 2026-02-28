@@ -18,14 +18,17 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-JavaScript | Python | C++ | TypeScript | HTML | CSS  
+**Languages:**  
+JavaScript • TypeScript • Python • C++ • HTML • CSS  
 
-### 🚀 Frameworks & Libraries
-React.js | Node.js | Express.js | MongoDB | Tailwind CSS | EJS  
+**Frontend:**  
+React.js • Tailwind CSS  
 
-### 🛠 Tools & Platforms
-Git | GitHub | VS Code | Cloudinary | Postman | Vercel | Netlify  
+**Backend:**  
+Node.js • Express.js  
+
+**Database & Tools:**  
+MongoDB • Git • GitHub • Postman • Cloudinary • Vercel • Netlify  
 
 ---
 
@@ -55,13 +58,6 @@ Educational platform designed for structured learning and content management.
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Harshada-Patil-05&theme=tokyonight"/>
-</p>
-
----
 
 ## 🔗 Connect With Me
 
