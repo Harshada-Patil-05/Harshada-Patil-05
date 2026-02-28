@@ -48,18 +48,17 @@ MongoDB • Git • GitHub • Postman • Cloudinary • Vercel • Netlify
 
 <div align="center">
 
-<table>
+<table width="100%">
 
 <tr>
-<td width="50%">
+<td width="48%" valign="top">
 
-<h3>🌐 Personal Portfolio</h3>
+### 🌐 Personal Portfolio
+Modern responsive portfolio built using **React & Tailwind CSS** with smooth animations and optimized performance.
 
-<p>Modern responsive portfolio built using React & Tailwind CSS with smooth animations and optimized performance.</p>
+**Tech Stack:** React • Tailwind • Vercel  
 
-<b>Tech Stack:</b> React • Tailwind • Vercel
-
-<br><br>
+<br>
 
 <a href="https://harshadapatil.online">
   <img src="https://img.shields.io/badge/Live Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -70,15 +69,16 @@ MongoDB • Git • GitHub • Postman • Cloudinary • Vercel • Netlify
 
 </td>
 
-<td width="50%">
+<td width="4%"></td>
 
-<h3>🍕 PizzaHub</h3>
+<td width="48%" valign="top">
 
-<p>Full-stack MERN food ordering platform with JWT authentication, cart management and secure REST APIs.</p>
+### 🍕 PizzaHub
+Full-stack **MERN** food ordering platform with JWT authentication, cart management and secure REST APIs.
 
-<b>Tech Stack:</b> MongoDB • Express • React • Node
+**Tech Stack:** MongoDB • Express • React • Node  
 
-<br><br>
+<br>
 
 <a href="https://pizzahub-online.vercel.app/">
   <img src="https://img.shields.io/badge/Live Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -90,16 +90,17 @@ MongoDB • Git • GitHub • Postman • Cloudinary • Vercel • Netlify
 </td>
 </tr>
 
+<tr><td colspan="3"><br><br></td></tr>
+
 <tr>
-<td width="50%">
+<td width="48%" valign="top">
 
-<h3>✈️ WanderWay</h3>
+### ✈️ WanderWay
+Travel booking platform built using **Node.js, Express & EJS** with server-side rendering and MVC architecture.
 
-<p>Travel booking platform built using Node.js, Express & EJS with server-side rendering and MVC architecture.</p>
+**Tech Stack:** Node • Express • EJS • MongoDB  
 
-<b>Tech Stack:</b> Node • Express • EJS • MongoDB
-
-<br><br>
+<br>
 
 <a href="https://wanderway-a753.onrender.com/">
   <img src="https://img.shields.io/badge/Live Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -110,15 +111,16 @@ MongoDB • Git • GitHub • Postman • Cloudinary • Vercel • Netlify
 
 </td>
 
-<td width="50%">
+<td width="4%"></td>
 
-<h3>📚 GyaanArena</h3>
+<td width="48%" valign="top">
 
-<p>Educational platform designed for structured learning, modular backend architecture and clean UI design.</p>
+### 📚 GyaanArena
+Educational platform designed for structured learning, modular backend architecture and clean UI design.
 
-<b>Tech Stack:</b> Node • Express • MongoDB • EJS
+**Tech Stack:** Node • Express • MongoDB • EJS  
 
-<br><br>
+<br>
 
 <a href="https://gyaan-arena.vercel.app/">
   <img src="https://img.shields.io/badge/Live Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -135,5 +137,4 @@ MongoDB • Git • GitHub • Postman • Cloudinary • Vercel • Netlify
 </div>
 
 ---
-
 ⭐ *Always learning. Always building. Always improving.*
