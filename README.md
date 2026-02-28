@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Developer | AI/ML Enthusiast | DSA Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=MERN+Stack+Developer;AI/ML+Enthusiast;DSA+Problem+Solver;Full+Stack+Builder&center=true&width=500&height=45&color=00C853">
+  <img src="https://readme-typing-svg.demolab.com?lines=MERN+Stack+Developer;AI/ML+Enthusiast;DSA+Problem+Solver;Full+Stack+Builder&center=true&width=500&height=45&color=8B5CF6">
 </p>
 
 <p align="center">
