@@ -58,16 +58,9 @@ Educational platform designed for structured learning and content management.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Harshada-Patil-05&theme=tokyonight" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Harshada-Patil-05&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Harshada-Patil-05&show_icons=true&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Harshada-Patil-05&layout=compact&theme=tokyonight"/>
-</p>
 ---
 
 ## 🔗 Connect With Me
