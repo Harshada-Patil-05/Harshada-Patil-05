@@ -2,16 +2,14 @@
 <h3 align="center">MERN Stack Developer | AI/ML Enthusiast | DSA Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;AI/ML+Enthusiast;DSA+Problem+Solver;Full+Stack+Builder&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com?lines=MERN+Stack+Developer;AI/ML+Enthusiast;DSA+Problem+Solver;Full+Stack+Builder&center=true&width=500&height=45">
 </p>
-
-<br/>
 
 ---
 
 ## 🚀 About Me
 - 🎓 B.E. Artificial Intelligence & Data Science Student | Pune, India  
-- 💻 Passionate about building scalable and scalable web applications  
+- 💻 Passionate about building scalable and high-performance web applications  
 - 🧠 Regularly solving Data Structures & Algorithms problems  
 - 🤖 Exploring Artificial Intelligence & Machine Learning  
 - 🌱 Currently building real-world full-stack and AI-driven projects  
@@ -60,13 +58,12 @@ Educational platform designed for structured learning and content management.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshada-Patil-05&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  
-  <img src="https://github-readme-streak-stats.vercel.app?user=Harshada-Patil-05&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshada-Patil-05&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Harshada-Patil-05&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshada-Patil-05&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshada-Patil-05&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
