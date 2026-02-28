@@ -43,7 +43,7 @@ Educational platform for structured learning.
 
 ## 📊 GitHub Stats
 
-![Harshada's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshada-Patil-05&show_icons=true&theme=tokyonight)
+![Harshada's GitHub stats]![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshada-Patil-05&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshada-Patil-05&layout=compact&theme=tokyonight)
 
