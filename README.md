@@ -46,36 +46,53 @@ MongoDB • Git • GitHub • Postman • Cloudinary • Vercel • Netlify
 
 ## 📌 Featured Projects
 
-### 🌐 My Portfolio  
-🔗 [Live Demo](https://harshadapatil.online) | 📂 [Repository](https://github.com/Harshada-Patil-05/MyPortfolio)  
-Modern responsive portfolio built using React & Tailwind CSS with smooth animations.
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+<h3>🌐 Personal Portfolio</h3>
+
+<p>Modern responsive portfolio built using React & Tailwind CSS with smooth animations and optimized performance.</p>
+
+<b>Tech Stack:</b> React • Tailwind • Vercel
+
+<br><br>
+
+<a href="https://harshadapatil.online">
+  <img src="https://img.shields.io/badge/Live Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/Harshada-Patil-05/MyPortfolio">
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<h3>🍕 PizzaHub</h3>
+
+<p>Full-stack MERN food ordering platform with authentication, cart management and secure REST APIs.</p>
+
+<b>Tech Stack:</b> MongoDB • Express • React • Node
+
+<br><br>
+
+<a href="https://your-live-link.com">
+  <img src="https://img.shields.io/badge/Live Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/Harshada-Patil-05/PizzaHub">
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-### 🍕 PizzaHub  
-📂 [Repository](https://github.com/Harshada-Patil-05/PizzaHub)  
-Full-stack MERN food ordering application with authentication, cart system, and database integration.
-
----
-
-### ✈️ WanderWay  
-📂 [Repository](https://github.com/Harshada-Patil-05/WanderWay)  
-Travel booking platform built with dynamic UI and server-side rendering (EJS).
-
----
-
-### 📚 GyaanArena  
-📂 [Repository](https://github.com/Harshada-Patil-05/GyaanArena)  
-Educational platform designed for structured learning and content management.
-
----
-
-
-## 🔗 Connect With Me
-
-- 🌐 Portfolio: https://harshadapatil.online  
-- 💼 LinkedIn: https://www.linkedin.com/in/harshada-g-patil/  
-
----
 
 ⭐ *Always learning. Always building. Always improving.*
