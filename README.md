@@ -49,6 +49,7 @@ MongoDB • Git • GitHub • Postman • Cloudinary • Vercel • Netlify
 <div align="center">
 
 <table>
+
 <tr>
 <td width="50%">
 
@@ -73,13 +74,13 @@ MongoDB • Git • GitHub • Postman • Cloudinary • Vercel • Netlify
 
 <h3>🍕 PizzaHub</h3>
 
-<p>Full-stack MERN food ordering platform with authentication, cart management and secure REST APIs.</p>
+<p>Full-stack MERN food ordering platform with JWT authentication, cart management and secure REST APIs.</p>
 
 <b>Tech Stack:</b> MongoDB • Express • React • Node
 
 <br><br>
 
-<a href="https://your-live-link.com">
+<a href="https://pizzahub-online.vercel.app/">
   <img src="https://img.shields.io/badge/Live Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://github.com/Harshada-Patil-05/PizzaHub">
@@ -88,11 +89,51 @@ MongoDB • Git • GitHub • Postman • Cloudinary • Vercel • Netlify
 
 </td>
 </tr>
+
+<tr>
+<td width="50%">
+
+<h3>✈️ WanderWay</h3>
+
+<p>Travel booking platform built using Node.js, Express & EJS with server-side rendering and MVC architecture.</p>
+
+<b>Tech Stack:</b> Node • Express • EJS • MongoDB
+
+<br><br>
+
+<a href="https://wanderway-a753.onrender.com/">
+  <img src="https://img.shields.io/badge/Live Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/Harshada-Patil-05/WanderWay">
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<h3>📚 GyaanArena</h3>
+
+<p>Educational platform designed for structured learning, modular backend architecture and clean UI design.</p>
+
+<b>Tech Stack:</b> Node • Express • MongoDB • EJS
+
+<br><br>
+
+<a href="https://gyaan-arena.vercel.app/">
+  <img src="https://img.shields.io/badge/Live Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/Harshada-Patil-05/GyaanArena">
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
 </table>
 
 </div>
 
 ---
-
 
 ⭐ *Always learning. Always building. Always improving.*
