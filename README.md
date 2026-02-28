@@ -98,7 +98,7 @@ Full-stack **MERN** food ordering platform with JWT authentication, cart managem
 ### ✈️ WanderWay
 Travel booking platform built using **Node.js, Express & EJS** with server-side rendering and MVC architecture.
 
-**Tech Stack:** Node • Express • EJS • MongoDB  
+**Tech Stack:** Node • Express • EJS • MongoDB • Javascript   
 
 <br>
 
@@ -118,7 +118,7 @@ Travel booking platform built using **Node.js, Express & EJS** with server-side 
 ### 📚 GyaanArena
 Educational platform designed for structured learning, modular backend architecture and clean UI design.
 
-**Tech Stack:** Node • Express • MongoDB • EJS  
+**Tech Stack:** Vite • TypeScript • React  • Tailwind CSS
 
 <br>
 
@@ -137,4 +137,10 @@ Educational platform designed for structured learning, modular backend architect
 </div>
 
 ---
-⭐ *Always learning. Always building. Always improving.*
+<p align="center">
+  🚀 <b>Turning Ideas into Scalable Products with Code & Curiosity</b>
+</p>
+
+<p align="center">
+  💻 MERN Stack • 🤖 AI/ML • 🧠 DSA • 📈 Consistent Growth
+</p>
