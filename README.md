@@ -128,88 +128,11 @@
 <tr>
 <td width="48%" valign="top">
 
-### 🌐 Personal Portfolio
-Modern responsive portfolio built using **React & Tailwind CSS** with smooth animations and optimized performance.
-
-**Tech Stack:** React • Tailwind • Vercel  
-
-<br>
-
-<a href="https://harshadapatil.online">
-  <img src="https://img.shields.io/badge/Live Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://github.com/Harshada-Patil-05/MyPortfolio">
-  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="4%"></td>
-
-<td width="48%" valign="top">
-
-### 🍕 PizzaHub
-Full-stack **MERN** food ordering platform with JWT authentication, cart management and secure REST APIs.
-
-**Tech Stack:** MongoDB • Express • React • Node  
-
-<br>
-
-<a href="https://pizzahub-online.vercel.app/">
-  <img src="https://img.shields.io/badge/Live Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://github.com/Harshada-Patil-05/PizzaHub">
-  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-
-<tr><td colspan="3"><br><br></td></tr>
-
-<tr>
-<td width="48%" valign="top">
-
-### ✈️ WanderWay
-Travel booking platform built using **Node.js, Express & EJS** with server-side rendering and MVC architecture.
-
-**Tech Stack:** Node • Express • EJS • MongoDB • Javascript   
-
-<br>
-
-<a href="https://wanderway-a753.onrender.com/">
-  <img src="https://img.shields.io/badge/Live Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://github.com/Harshada-Patil-05/WanderWay">
-  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="4%"></td>
-
-<td width="48%" valign="top">
-
-### 📚 GyaanArena
-Educational platform designed for structured learning, modular backend architecture and clean UI design.
-
-**Tech Stack:** Vite • TypeScript • React  • Tailwind CSS
-
-<br>
-
-<a href="https://gyaan-arena.vercel.app/">
-  <img src="https://img.shields.io/badge/Live Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://github.com/Harshada-Patil-05/GyaanArena">
-  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-<td width="48%" valign="top">
-
 ### 🤖 ATS Resume Analyzer
 
-AI-powered resume analysis platform that evaluates resumes against job descriptions using **NLP, semantic similarity and LLM-based analysis**. It extracts resume content, generates an ATS compatibility score, identifies missing skills and keywords, and provides AI-powered improvement suggestions.
+AI-powered resume analysis platform that evaluates resumes against job descriptions using **NLP, semantic similarity and LLM-based analysis**.
+
+It extracts resume content, generates an ATS compatibility score, identifies missing skills and keywords, and provides AI-powered suggestions to improve resume quality.
 
 **Tech Stack:** Python • FastAPI • Streamlit • spaCy • Sentence Transformers • Groq • Supabase
 
@@ -220,12 +143,111 @@ AI-powered resume analysis platform that evaluates resumes against job descripti
 </a>
 
 <a href="YOUR_ATS_LIVE_LINK">
-  <img src="https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="4%"></td>
+
+<td width="48%" valign="top">
+
+### 🌐 Personal Portfolio
+
+Modern responsive portfolio built using **React & Tailwind CSS** with smooth animations, interactive sections and optimized performance.
+
+**Tech Stack:** React • Tailwind CSS • JavaScript • Framer Motion • Vercel
+
+<br>
+
+<a href="https://harshadapatil.online">
+  <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Harshada-Patil-05/MyPortfolio">
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 </tr>
 
+<tr>
+<td width="48%" valign="top">
+
+### 🍕 PizzaHub
+
+Full-stack **MERN** food ordering platform with JWT authentication, cart management, order processing, Razorpay payment integration and secure REST APIs.
+
+**Tech Stack:** MongoDB • Express.js • React • Node.js • JWT • Razorpay
+
+<br>
+
+<a href="https://pizzahub-online.vercel.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Harshada-Patil-05/PizzaHub">
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="4%"></td>
+
+<td width="48%" valign="top">
+
+### ✈️ WanderWay
+
+Full-stack stay discovery platform built with **Node.js, Express and MongoDB**, implementing RESTful routing, MVC architecture, authentication, reviews and cloud media storage.
+
+**Tech Stack:** Node.js • Express.js • MongoDB • JavaScript • Bootstrap
+
+<br>
+
+<a href="https://wanderway-a753.onrender.com/">
+  <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=render&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Harshada-Patil-05/WanderWay">
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="48%" valign="top">
+
+### 📚 GyaanArena
+
+Educational platform designed for structured learning with modular architecture and a clean, responsive interface.
+
+**Tech Stack:** Vite • TypeScript • React • Tailwind CSS
+
+<br>
+
+<a href="https://gyaan-arena.vercel.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Harshada-Patil-05/GyaanArena">
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="4%"></td>
+
+<td width="48%" valign="top">
+
+### 🧠 AI/ML Projects
+
+Exploring practical AI/ML applications involving **machine learning, NLP, semantic similarity, deep learning and Generative AI**.
+
+**Focus Areas:** Machine Learning • NLP • Deep Learning • LLMs • Generative AI • RAG
+
+</td>
+</tr>
 
 </table>
 
