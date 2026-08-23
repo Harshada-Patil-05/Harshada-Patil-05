@@ -130,19 +130,17 @@
 
 ### 🤖 ATS Resume Analyzer
 
-AI-powered resume analysis platform that evaluates resumes against job descriptions using **NLP, semantic similarity and LLM-based analysis**.
-
-It extracts resume content, generates an ATS compatibility score, identifies missing skills and keywords, and provides AI-powered suggestions to improve resume quality.
+AI-powered resume analysis extracts resume content, generates an ATS compatibility score, identifies missing skills and keywords, and provides AI-powered suggestions to improve resume quality.
 
 **Tech Stack:** Python • FastAPI • Streamlit • spaCy • Sentence Transformers • Groq • Supabase
 
 <br>
 
-<a href="YOUR_ATS_GITHUB_LINK">
+<a href="https://github.com/Harshada-Patil-05/ATS_SCORER">
   <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_ATS_LIVE_LINK">
+<a href="https://atsscorer-bvsfsbds69hsj8bwmpmkef.streamlit.app/">
   <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
 
